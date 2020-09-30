@@ -4,7 +4,7 @@
 
 The website of the Aragon project.
 
-![banner](https://raw.githubusercontent.com/hemantmakkar/aragon.org/master/public/Website/img/readme-img.png)
+![banner](https://raw.githubusercontent.com/hemantmakkar/aragon.org/master/public/readme-img.png)
 
 ## Build Setup
 
