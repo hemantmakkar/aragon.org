@@ -4,6 +4,8 @@
 
 The website of the Aragon project.
 
+![banner](https://raw.githubusercontent.com/hemantmakkar/aragon.org/master/public/Website/img/readme-img.png)
+
 ## Build Setup
 
 ``` bash
